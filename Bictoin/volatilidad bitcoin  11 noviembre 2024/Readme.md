@@ -12,3 +12,6 @@ Proyección a Largo Plazo: Basándonos en un aumento de más del 162.51% en la c
 Estrategia de Compra/Venta:
 Si eres un inversor que sigue tendencias y aprovechas impulsos alcistas, podrías considerar comprar con un enfoque cuidadoso, monitoreando la resistencia alrededor de 1,725,369 MXN.
 Para los que prefieren evitar riesgos, es esencial estar preparados para una posible corrección y usar herramientas de gestión de riesgo, como stop-loss.
+
+
+fecha: 11 de noviembre 2024
